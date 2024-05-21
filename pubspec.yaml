@@ -38,6 +38,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   firebase_core: ^2.31.0
   firebase_vertexai: ^0.1.0
+  flutter_meedu: ^8.1.1
 
 dev_dependencies:
   flutter_test:
@@ -63,6 +64,8 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - images/image0.jpg
+    - images/Google_Gemini_logo.png
+    - images/mobilefire_logo.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
