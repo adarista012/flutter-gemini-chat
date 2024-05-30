@@ -5,8 +5,8 @@ Built with Flutter and powered by Firebase and conected to the power of Google V
 Delivers a seamless and inteligent chat experience on your mobile device.
 This Flutter App interacts with Google's Vertex Ai.
 
-#MobileFire
-#Google #GoogleI/O
-#Fluter #Firebase #FlutterFire 📱 🔥
-#Gemini #GoogleGemini #GoogleGeminiAi ♊️
-#Vertex #GoogleVertex #GoogleVertexAi
+#MobileFire\
+#Google #GoogleI/O\
+#Fluter #Firebase #FlutterFire 📱 🔥\
+#Gemini #GoogleGemini #GoogleGeminiAi ♊️\
+#Vertex #GoogleVertex #GoogleVertexAi\
