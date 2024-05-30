@@ -6,7 +6,7 @@ Delivers a seamless and inteligent chat experience on your mobile device.
 This Flutter App interacts with Google's Vertex Ai.
 
 #MobileFire
-#Google #GoogleI/O #Fluter
-#Firebase #FlutterFire
-#Gemini #GoogleGemini #GoogleGeminiAi
+#Google #GoogleI/O
+#Fluter #Firebase #FlutterFire 📱 🔥
+#Gemini #GoogleGemini #GoogleGeminiAi ♊️
 #Vertex #GoogleVertex #GoogleVertexAi
