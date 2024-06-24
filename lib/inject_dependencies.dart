@@ -6,5 +6,6 @@ import 'package:flutter_vertex/app/domain/repositories/firebase_vertexai_reposit
 Future<void> injectDependencies() async {
   final firebase = FirebaseProvider();
   Get.lazyPut<FirebaseVertexaiRepository>(
-      () => FirebaseVertexaiRepositoryImpl(firebaseProvider: firebase));
+    () => FirebaseVertexaiRepositoryImpl(firebaseProvider: firebase),
+  );
 }
