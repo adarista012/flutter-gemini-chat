@@ -13,4 +13,6 @@ This Flutter App interacts with Google's Vertex Ai.
 #Vertex #GoogleVertex #GoogleVertexAi\
 \
 \
+![ezgif com-speed](https://github.com/adarista012/flutter-gemini-chat/assets/74845162/7072eb33-4698-4749-bc41-9c40b794e692)
+\
 ![Flutter Fire](images/mobilefire_logo.png)
